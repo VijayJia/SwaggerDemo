@@ -1,0 +1,180 @@
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\SwaggerDemo.exe.config
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\SwaggerDemo.exe
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\SwaggerDemo.pdb
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Routing.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.StaticFiles.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileProviders.Embedded.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Localization.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Logging.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Options.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Primitives.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Net.Http.Headers.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Newtonsoft.Json.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.AppContext.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Buffers.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Collections.Immutable.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.ComponentModel.Primitives.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Console.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Globalization.Calendars.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.Compression.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.FileSystem.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Net.Http.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Net.Sockets.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Numerics.Vectors.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Reflection.Metadata.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Text.Encodings.Web.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\bin\Debug\System.Xml.ReaderWriter.dll
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.csproj.SwaggerDemo.exe.config
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.csproj.CoreCompileInputs.cache
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.exe
+c:\users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.pdb
+C:\Users\jiato\documents\visual studio 2017\Projects\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.csprojResolveAssemblyReference.cache
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\SwaggerDemo.exe.config
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\SwaggerDemo.exe
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\SwaggerDemo.pdb
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.StaticFiles.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.AppContext.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Buffers.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Collections.Immutable.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Console.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Globalization.Calendars.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.Compression.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.FileSystem.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Net.Http.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Net.Sockets.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Reflection.Metadata.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.csprojResolveAssemblyReference.cache
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.csproj.SwaggerDemo.exe.config
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.csproj.CoreCompileInputs.cache
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.exe
+D:\Code\Swagger\SwaggerDemo\SwaggerDemo\obj\Debug\SwaggerDemo.pdb
